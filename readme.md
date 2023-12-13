@@ -16,3 +16,6 @@ Vrámci opakování práce s datumy vypracujte následující příklady. Výsle
  6) *(2 body)* Napište metodu, která porovná dva vložené datumy a vrátí vždy nižší z datumů na první pozici a vyšší na druhé. Pokud je tedy druhé datum nižší než to první, pak oba datumy prohodí prohodí a vrátí je jako list.
  7) *(2 body)* Najděte a vypište první pondělí po Vánocích 24.12.2023
 
+
+![](tests.png)
+
